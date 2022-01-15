@@ -1,4 +1,4 @@
-// ORIGINAL
+
 
 PImage floor, tiger, pyramid, ceiling, sandPebbels, leftWall, rightWall, frontWall, backWall, fireWork, mountain, galaxy1, galaxy2, galaxy3, earth, whiteWall
   , blackAndWhite, backDrop, wallStone;
